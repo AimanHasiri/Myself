@@ -1,0 +1,40 @@
+<head>
+<title>About Myself</title>
+</head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#FFFFFF" background="background.jpg">
+
+<center>
+<img src="heading 2.jpg" border="0" alt="About Myself">
+</center>
+<font size="+1">
+
+<p>
+<b>
+<font face="arial" color="blue" size="+2">H</font>ello, My name is Aiman, I am a person who has a big dream in my life, I was born in Seremban, Negeri Sembilan.
+I have 4 siblings. My mom is from Negeri Sembilan, while my dad is from Perak. This is my homepage, so here i would like to share about myself.
+</b>
+</p><p>
+<b>
+<img src="header 3.jpg" align="left">
+<font face="arial" color="red" size="+2">I</font> am turning 21 years old this year. I love to eat sambal udang and nasi ayam. I like to play computer games such as Dota 2, Valorant
+Aim lab and F1 2020. During holiday me and my family will do some activities together such as gardening, chatting about my childhood memories. It's
+kinda funny and cheering when my parents throwback about my past. Sometimes, I also love to list some music.. especially in pop and rock genre.
+  </b>
+</p><p>
+<b>
+
+<font face="arial" color="violet" size="+2">I</font> always wanted to be a Doctor when i was in primary school, but today i would like to be a pro player in valorant 
+competitive and a successor in business. I know it's hard for me to achieve it but I had vow to myself for not give up in everything i do or done.
+
+</b>
+</p></font><p><font size="+1">
+<b>
+<font face="arial" color="navy" size="+2">T</font>his is a brief introduction of myself.  If you are interested in knowing
+more, take a look at my <a href="pictures.html">pictures</a>.  I hope those who read this will make u smile and happy.
+
+</b>
+
+</font>
+
+</p></body>

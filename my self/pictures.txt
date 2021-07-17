@@ -1,0 +1,64 @@
+<head>
+<title>Me, Myself and i</title>
+</head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#FFFFFF" background="background 2.jpg">
+
+<center>
+<img src="Family.jpg" border="0" alt="My Family">
+</center>
+<font size="+1">
+
+<p>
+<font face="arial" color="red" size="+2">T</font>here are six people in our family.
+
+</p><p>
+
+<font face="arial" color="orange" size="+2">M</font>y dad's name is Hasiri while my mom's name is Rosni 
+and they had 4 kids which is me and my other siblings.
+</p><p>
+<font face="arial" color="violet" size="+2">M</font>y dad start his family in Bangi, Selangor. 
+He found my mom at Sepang Circuit when his was in race cup.</p><p>
+<font face="arial" color="blue" size="+2">H</font>ere are some of our family pictures, enjoy! 
+
+</p></font><p><font size="+1">
+<table width="100%">
+<tbody><tr>
+<td bgcolor="ffffee" width="21%" valign="top">
+<font size="+1" face="arial">My Family</font>
+</td>
+</tr>
+
+<tr>
+<td valign="top"><pre><font face="arial">
+
+<img src= ><a href="seketul Aiman Hasiri.jpg">Seketul Aiman Hasiri</a>
+
+<img src= ><a href="eid 2017.jpg">Eid 2017</a>
+
+<img src= ><a href="eid 2018.jpg">Eid 2018</a>
+
+<img src= ><a href="eid 2019.jpg">Eid 2019</a></font></pre>
+<pre><font face="arial" size="+1"><img src= ><a href="eid 2020.jpg">Eid 2020</a></font></pre>
+<pre><font face="arial" size="+1"><img src= ><a href="eid 2021.jpg">Eid 2021 </a>
+</font><font face="arial">
+
+
+
+<img src= ><a href="my dad XD.jpg">MY DAD XD</a>
+
+<img src= ><a href="me n mom.jpg">ME AND MY MOM</a></font></pre>
+<pre><font face="arial" size="+1"><img src=><a href="vacation.jpg">VACATION</a></font><font face="arial">
+
+<img src= ><a href="family day 2.jpg">FAMILY DAY</a>
+
+<img src= ><a href="first day.jpg">FIRST DAY IN UITM</a>
+
+
+</font></pre></td>
+</tr>
+</tbody></table>
+
+</font>
+
+</p></body>
